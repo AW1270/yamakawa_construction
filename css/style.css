@@ -766,9 +766,13 @@ header .tel p{
     }
     .blog li{
         width: 100%;
+    }
+    .blog li a{
         display: flex;
         justify-content: space-between;
+        padding-bottom: 24px;
     }
+        
     .blog li .imgContainer{
         width: 30%;
         margin-bottom: 0;
